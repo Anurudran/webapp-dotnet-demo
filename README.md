@@ -7,7 +7,6 @@ This is a simple full-stack demo app that lets you add items via a React fronten
 - **Frontend**: React  
 - **Backend**: ASP.NET Core Web API  
 - **Database**: SQL Server (Docker)  
-- **ORM**: Entity Framework Core  
 
 ## Features
 
