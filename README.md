@@ -19,7 +19,7 @@ This is a simple full-stack demo app that lets you add items via a React fronten
 1. **Start SQL Server**  
    Make sure Docker is running, then:
    ```bash
-   docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=YourStrong!Pass123' \
+   docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Password!123' \
      -p 1433:1433 --name sqlserver \
      -d mcr.microsoft.com/mssql/server:2022-latest
 2. ** Start backend
